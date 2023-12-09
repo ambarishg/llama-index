@@ -1,0 +1,4 @@
+llama-index
+pypdf
+python-dotenv
+sentence-transformers
