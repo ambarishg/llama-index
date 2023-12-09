@@ -22,7 +22,7 @@ class SentenceTransformerEmbeddings(BaseEmbedding):
 
     @classmethod
     def class_name(cls) -> str:
-        return "instructor"
+        return "sentence transformer"
 
     async def _aget_query_embedding(self, query: str) -> List[float]:
         return self._get_query_embedding(query)

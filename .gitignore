@@ -1,2 +1,4 @@
 .venv311
 .env
+DOCS
+__pycache__
