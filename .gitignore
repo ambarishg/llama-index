@@ -1,5 +1,5 @@
 .venv
 .env
-DOCS
 OTHER_DOCS
+data
 __pycache__
