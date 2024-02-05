@@ -1,4 +1,6 @@
 llama-index
-pypdf
+pymupdf
 python-dotenv
-sentence-transformers
+qdrant-client
+fastembed
+fitz

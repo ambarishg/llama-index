@@ -1,4 +1,5 @@
-.venv311
+.venv
 .env
 DOCS
+OTHER_DOCS
 __pycache__
