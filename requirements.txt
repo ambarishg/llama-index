@@ -3,4 +3,3 @@ pymupdf
 python-dotenv
 qdrant-client
 fastembed
-fitz
