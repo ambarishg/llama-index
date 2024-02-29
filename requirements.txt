@@ -2,4 +2,4 @@ llama-index
 pymupdf
 python-dotenv
 qdrant-client
-fastembed
+streamlit
