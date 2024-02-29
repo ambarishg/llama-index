@@ -1,5 +1,0 @@
-llama-index
-pymupdf
-python-dotenv
-qdrant-client
-streamlit
