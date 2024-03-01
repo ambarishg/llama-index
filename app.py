@@ -2,7 +2,7 @@ import streamlit as st
 
 from  llam_index_helper import *
 
-st.title("Question Answering System of TATA Steel")
+st.title("Question Answering System of PWD")
 
 prompt = st.text_input('Your Question')
 
